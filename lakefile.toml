@@ -1,0 +1,10 @@
+name = "software-foundations-lean"
+version = "0.1.0"
+defaultTargets = ["software-foundations-lean"]
+
+[[lean_lib]]
+name = "SoftwareFoundationsLean"
+
+[[lean_exe]]
+name = "software-foundations-lean"
+root = "Main"
