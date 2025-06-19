@@ -8,3 +8,8 @@ name = "SoftwareFoundationsLean"
 [[lean_exe]]
 name = "software-foundations-lean"
 root = "Main"
+
+
+[[require]]
+name = "verso"
+scope="leanprover"
