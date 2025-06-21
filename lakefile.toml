@@ -4,7 +4,3 @@ defaultTargets = ["software-foundations-lean"]
 
 [[lean_lib]]
 name = "SoftwareFoundationsLean"
-
-[[lean_exe]]
-name = "software-foundations-lean"
-root = "Main"
