@@ -23,7 +23,7 @@
     Other common features of functional languages include _algebraic
     data types_ and _pattern matching_, which make it easy to
     construct and manipulate rich data structures, and _polymorphic
-    type systems_ supporting abstraction and code reuse.  Coq offers
+    type systems_ supporting abstraction and code reuse. LEAN offers
     all of these features.
 
     LEAN has been made to be performant both as a programming language
@@ -32,3 +32,5 @@
     half introduces some basic _tactics_ that can be used to prove
     properties of the programs that you write within LEAN.
 -/
+
+
